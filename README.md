@@ -28,14 +28,22 @@ https://user-images.githubusercontent.com/39349564/176978368-754c4aeb-34ae-4e59-
             
           
 clone the repo
+
 log in to mysql
+
 SOURCE db/schema.sql
+
 USE ecommerce_db
+
 quit
 
+
 npm i
+
 npm run seed
+
 npm start
+
 Play around with it in Insomnia!
 
 
